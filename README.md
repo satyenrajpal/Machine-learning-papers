@@ -26,7 +26,7 @@ Deep Deterministic Policy Gradient <br>
 Prioritized Experience Replay <br>
 
 # Generative Models
-Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks <br>
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN) <br>
 Generative Adversarial Networks <br>
 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks <br>
 StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation <br>
@@ -35,29 +35,31 @@ Wasserstein GAN (https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)<br>
 Improved Training of Wasserstein GANs
 StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
 AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks
+Progressive GANs
+Toward Multimodal Image-to-Image Translation https://arxiv.org/abs/1711.11586
+ Image-to-Image Translation with Conditional Adversarial Networks - https://arxiv.org/abs/1611.07004
 
 # Semantic Segmentation
- U-Net: Convolutional Networks for Biomedical Image Segmentation - (https://arxiv.org/abs/1505.04597)
- Fully Convolutional Networks for Semantic Segmentation - (https://arxiv.org/abs/1411.4038)
- PixelNet: Towards a General Pixel-level Architecture - (https://arxiv.org/abs/1609.06694)
- Hypercolumns for Object Segmentation and Fine-grained Localization - (https://arxiv.org/abs/1411.5752)
- DeepLab - Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs (https://arxiv.org/abs/1606.00915)
+ U-Net: Convolutional Networks for Biomedical Image Segmentation - (https://arxiv.org/abs/1505.04597) <br>
+ Fully Convolutional Networks for Semantic Segmentation - (https://arxiv.org/abs/1411.4038) <br>
+ PixelNet: Towards a General Pixel-level Architecture - (https://arxiv.org/abs/1609.06694) <br>
+ Hypercolumns for Object Segmentation and Fine-grained Localization - (https://arxiv.org/abs/1411.5752) <br>
+ DeepLab - Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs  (https://arxiv.org/abs/1606.00915) <br>
  
  # Image Recognition
-Densely Connected Convolutional Networks - https://arxiv.org/abs/1608.06993
-ImageNet Classification with Deep Convolutional Neural Networks - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
-Resnet - Deep Residual Learning for Image Recognition - https://arxiv.org/abs/1512.03385
-Going Deeper with Convolutions - https://arxiv.org/abs/1409.4842
- Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG) - https://arxiv.org/abs/1409.1556
+Densely Connected Convolutional Networks - https://arxiv.org/abs/1608.06993 <br>
+ImageNet Classification with Deep Convolutional Neural Networks - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks <br>
+Resnet - Deep Residual Learning for Image Recognition - https://arxiv.org/abs/1512.03385 <br>
+Going Deeper with Convolutions - https://arxiv.org/abs/1409.4842 <br>
+Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG) - https://arxiv.org/abs/1409.1556 <br>
  
-
 # Language
-Word2Vec
-Skip Thought Vectors
-GloVe
+Word2Vec <br>
+Skip Thought Vectors <br>
+GloVe <br>
 
 # Metrics
-BLEU
-METEOR
-ROUGE
-CIDEr
+BLEU <br>
+METEOR <br>
+ROUGE <br>
+CIDEr <br>
