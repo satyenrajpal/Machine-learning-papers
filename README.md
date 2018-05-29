@@ -1,5 +1,5 @@
 # Introduction
-This is a repository containing all the papers that I enjoyed reading. (I'm stil adding papers) . If you wish to add papers that you liked, or your work, please submit a pull request including as many links as you can find related to your paper.
+This is a repository containing all the papers that I enjoyed reading. (stil adding papers) . In addition, resources which helped me in understanding each paper are also listed. If you wish to add papers that you liked, or your work, please submit a pull request including as many links as you can find related to your paper.
 
 [Reinforcement Learning](#reinforcement-learning) | [Generative Models](#generative-models) | [Semantic Segmentation](#semantic-segmentation) | [Image Recognition](#image-recognition) | [Language](#language) | [Metrics](#metrics)
 
