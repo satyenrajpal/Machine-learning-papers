@@ -5,39 +5,57 @@ This is a repository containing all the papers that I enjoyed reading. (stil add
 
 # Reinforcement Learning
 Playing Atari with Deep Reinforcement Learning <br>
-[ArXiv](https://arxiv.org/abs/1312.5602) | [ShortScience](http://www.shortscience.org/paper?bibtexKey=journals/corr/1312.5602#aleju) | [GitHub link](https://github.com/brendanator/atari-rl) <br>
+[ArXiv](https://arxiv.org/abs/1312.5602) | [ShortScience](http://www.shortscience.org/paper?bibtexKey=journals/corr/1312.5602#aleju) | [Code](https://github.com/brendanator/atari-rl) <br>
 
 Temporal Difference ModelsLModel-Free Deep RL for Model-Based Control <br>
-[ArXiv](https://arxiv.org/abs/1802.09081) | [GitHub link](https://github.com/vitchyr/rlkit) | [OpenReview](https://openreview.net/forum?id=Skw0n-W0Z) <br>
+[ArXiv](https://arxiv.org/abs/1802.09081) | [Code](https://github.com/vitchyr/rlkit) | [OpenReview](https://openreview.net/forum?id=Skw0n-W0Z) <br>
 
 Hindsight Experience Replay <br>
-[ArXiv](https://arxiv.org/abs/1707.01495) | [GitHub link](https://github.com/openai/baselines/tree/master/baselines/her) <br>
+[ArXiv](https://arxiv.org/abs/1707.01495) | [code](https://github.com/openai/baselines/tree/master/baselines/her) <br>
 
  Dueling Network Architectures for Deep Reinforcement Learning <br>
-[ArXiv](https://arxiv.org/abs/1511.06581) | [GitHub link](https://github.com/satyenrajpal/RL_algos) <br>
+[ArXiv](https://arxiv.org/abs/1511.06581) | [Code](https://github.com/satyenrajpal/RL_algos) <br>
 
 Rainbow: Combining Improvements in Deep Reinforcement Learning <br>
-[ArXiv](https://arxiv.org/abs/1710.02298) | [GitHub link](https://github.com/Kaixhin/Rainbow) <br>
+[ArXiv](https://arxiv.org/abs/1710.02298) | [Code](https://github.com/Kaixhin/Rainbow) <br>
 
 Asynchronous Methods for Deep Reinforcement Learning <br> 
 [ArXiv](https://arxiv.org/abs/1602.01783) | [Medium link w/ code](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2) <br>
 
 Deep Deterministic Policy Gradient <br>
+[ArXiv](https://arxiv.org/abs/1509.02971) | [Code](https://github.com/Kaixhin/Rainbow) | [Blog](http://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html) <br>
+
 Prioritized Experience Replay <br>
+[ArXiv](https://arxiv.org/abs/1511.05952?context=cs) | [Code](https://github.com/rlcode/per) | [Blog](http://pemami4911.github.io/paper-summaries/deep-rl/2016/01/26/prioritizing-experience-replay.html) <br>
 
 # Generative Models
-Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN) <br>
 Generative Adversarial Networks <br>
-Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks <br>
+[ArXiv](https://arxiv.org/abs/1406.2661) | [Code & Blog](https://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/) <br>
+
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN) <br>
+[ArXiv](https://arxiv.org/abs/1511.06434) | [Code](https://github.com/pytorch/examples/tree/master/dcgan) | [Blog](https://julianzaidi.wordpress.com/2017/04/24/deep-convolution-gan-dcgan-architecture-and-training/) <br>
+
+Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN) <br>
+[ArXiv](https://arxiv.org/abs/1703.10593) | [Blog & Code](https://junyanz.github.io/CycleGAN/) <br>
+
+Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (DiscoGAN) <br>
+[ArXiv](https://arxiv.org/abs/1703.05192) | [Code](https://github.com/carpedm20/DiscoGAN-pytorch) <br>
+
 StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation <br>
+[ArXiv](https://arxiv.org/abs/1711.09020) | [Code](https://github.com/yunjey/StarGAN) <br>
+
 Fader Networks: Manipulating Images by Sliding Attributes <br>
-Wasserstein GAN (https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)<br>
+[ArXiv](https://arxiv.org/abs/1706.00409) | [Code](https://github.com/facebookresearch/FaderNetworks) | [Blog on disentangling latent space](https://www.ibm.com/blogs/research/2018/05/disentanglement-deep-learning/)<br>
+
+Wasserstein GAN 
+[ArXiv](https://arxiv.org/abs/1701.07875) | [Code](https://github.com/martinarjovsky/WassersteinGAN) | [Blog](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)<br>
+[//]: #(
 Improved Training of Wasserstein GANs
 StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
 AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks
 Progressive GANs
 Toward Multimodal Image-to-Image Translation https://arxiv.org/abs/1711.11586
- Image-to-Image Translation with Conditional Adversarial Networks - https://arxiv.org/abs/1611.07004
+Image-to-Image Translation with Conditional Adversarial Networks - https://arxiv.org/abs/1611.07004
 
 # Semantic Segmentation
  U-Net: Convolutional Networks for Biomedical Image Segmentation - (https://arxiv.org/abs/1505.04597) <br>
@@ -63,3 +81,4 @@ BLEU <br>
 METEOR <br>
 ROUGE <br>
 CIDEr <br>
+)
