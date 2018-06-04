@@ -41,9 +41,11 @@ Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks 
 Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (DiscoGAN) <br>
 [ArXiv](https://arxiv.org/abs/1703.05192) | [Code](https://github.com/carpedm20/DiscoGAN-pytorch) <br>
 
-Toward Multimodal Image-to-Image Translation https://arxiv.org/abs/1711.11586
+Toward Multimodal Image-to-Image Translation
+[ArXiv](https://arxiv.org/abs/1711.11586) | [Code](https://github.com/junyanz/BicycleGAN)
 
-Image-to-Image Translation with Conditional Adversarial Networks - https://arxiv.org/abs/1611.07004
+Image-to-Image Translation with Conditional Adversarial Networks -
+[ArXiv](https://arxiv.org/abs/1611.07004) | [Code](https://github.com/phillipi/pix2pix)
 
 StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation <br>
 [ArXiv](https://arxiv.org/abs/1711.09020) | [Code](https://github.com/yunjey/StarGAN) <br>
@@ -55,12 +57,16 @@ Wasserstein GAN
 [ArXiv](https://arxiv.org/abs/1701.07875) | [Code](https://github.com/martinarjovsky/WassersteinGAN) | [Blog](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)<br>
 
 Improved Training of Wasserstein GANs
+[ArXiv](https://arxiv.org/abs/1704.00028) | [Code](https://github.com/lilianweng/unified-gan-tensorflow) | [Blog](http://guimperarnau.com/blog/2017/11/Fantastic-GANs-and-where-to-find-them-II#impWGANs) | [Reddit](https://www.reddit.com/r/MachineLearning/comments/63dfun/r170400028_improved_training_of_wasserstein_gans/) <br>
 
 StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
+[ArXiv](https://arxiv.org/abs/1612.03242) | [Code](https://github.com/hanzhanggit/StackGAN) <br>
 
 AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks
+[ArXiv](https://arxiv.org/abs/1711.10485) | [Code](https://github.com/taoxugit/AttnGAN) <br>
 
 Progressive GANs
+[ArXiv](https://arxiv.org/abs/1710.10196) | [Code](https://github.com/tkarras/progressive_growing_of_gans) | [OpenReview](https://openreview.net/forum?id=Hk99zCeAb) <br>
 
 # Semantic Segmentation
  
