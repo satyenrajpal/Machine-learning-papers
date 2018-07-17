@@ -70,41 +70,56 @@ Progressive GANs <br>
 
 # Semantic Segmentation
  
- U-Net: Convolutional Networks for Biomedical Image Segmentation - (https://arxiv.org/abs/1505.04597) <br>
+U-Net: Convolutional Networks for Biomedical Image Segmentation <br>
+[ArXiv](https://arxiv.org/abs/1505.04597) | [My Implementation (TensorFlow)](https://github.com/satyenrajpal/Semantic-Segmentation-U-Net) <br>
  
- Fully Convolutional Networks for Semantic Segmentation - (https://arxiv.org/abs/1411.4038) <br>
+Fully Convolutional Networks for Semantic Segmentation <br>
+[ArXiV](https://arxiv.org/abs/1411.4038) | [TensorFlow Implementation](https://github.com/shekkizh/FCN.tensorflow) <br>
  
- PixelNet: Towards a General Pixel-level Architecture - (https://arxiv.org/abs/1609.06694) <br>
- 
- Hypercolumns for Object Segmentation and Fine-grained Localization - (https://arxiv.org/abs/1411.5752) <br>
- 
- DeepLab - Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs  (
- https://arxiv.org/abs/1606.00915) <br>
+PixelNet: Towards a General Pixel-level Architecture <br>
+[ArXiV](https://arxiv.org/abs/1609.06694) | [Code](https://github.com/aayushbansal/PixelNet) <br>
+
+Hypercolumns for Object Segmentation and Fine-grained Localization <br>
+[ArXiV](https://arxiv.org/abs/1411.5752) | [Official Code](https://github.com/bharath272/sds) <br>
+
+DeepLab - Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs <br>
+[ArXiV](https://arxiv.org/abs/1606.00915) | [Official TensorFlow code](https://github.com/tensorflow/models/tree/master/research/deeplab)<br>
  
 # Image Recognition
-Densely Connected Convolutional Networks - https://arxiv.org/abs/1608.06993 <br>
+Densely Connected Convolutional Networks <br>
+[ArXiV](https://arxiv.org/abs/1608.06993) | [PyTorch Implementation](https://github.com/bamos/densenet.pytorch)<br>
 
-ImageNet Classification with Deep Convolutional Neural Networks - https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks <br>
+ImageNet Classification with Deep Convolutional Neural Networks <br>
+[ArXiV](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) <br>
 
-Resnet - Deep Residual Learning for Image Recognition - https://arxiv.org/abs/1512.03385 <br>
+Resnet - Deep Residual Learning for Image Recognition <br>
+[ArXiV](https://arxiv.org/abs/1512.03385) <br>
 
-Going Deeper with Convolutions - https://arxiv.org/abs/1409.4842 <br>
+Going Deeper with Convolutions <br>
+[ArXiV](https://arxiv.org/abs/1409.4842) <br>
 
-Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG) - https://arxiv.org/abs/1409.1556 <br>
+Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG) <br>
+[ArXiV](https://arxiv.org/abs/1409.1556) <br>
  
 # Language
 Word2Vec <br>
+[Paper](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 
 Skip Thought Vectors <br>
+[Paper](https://arxiv.org/abs/1506.06726) | [Official Code](https://github.com/ryankiros/skip-thoughts) <br>
 
 GloVe <br>
+[Official Page](https://nlp.stanford.edu/projects/glove/) <br>
 
 # Metrics
 BLEU <br>
+[Paper](https://www.aclweb.org/anthology/P02-1040.pdf) <br>
 
 METEOR <br>
+[Paper](https://www.cs.cmu.edu/~alavie/papers/BanerjeeLavie2005-final.pdf)<br>
 
 ROUGE <br>
+[Paper](http://www.aclweb.org/anthology/W04-1013) <br>
 
 CIDEr <br>
-
+[Paper](http://www.cs.cmu.edu/~jeanoh/16-785/papers/vedantam-cvpr2015-cider.pdf)<br>
