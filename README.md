@@ -34,6 +34,9 @@ Prioritized Experience Replay <br>
 Universal Agent for Disentangling Environments and Task<br>
 [Paper](https://openreview.net/pdf?id=B1mvVm-C-)
 
+Generative Adversarial Imitation Learning <br>
+[Paper](https://arxiv.org/abs/1606.03476) | [Code](https://github.com/nav74neet/gail_gym) | [Blog](http://tsong.me/blog/gail/) <br>
+
 # Generative Models
 Generative Adversarial Networks <br>
 [Paper](https://arxiv.org/abs/1406.2661) | [Code & Blog](https://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/) <br>
